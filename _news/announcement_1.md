@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished the last day of my internship at VIVALDI_. Thank you so much for such a great experience!
+Finished the last day of my internship at VIVALDI_. Thank you for such a great experience!

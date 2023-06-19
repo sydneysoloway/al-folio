@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Squash Cares
+description: Social Action in sports
 img:
 importance: 3
 category: fun
